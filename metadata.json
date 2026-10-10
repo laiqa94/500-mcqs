@@ -1,0 +1,6 @@
+{
+  "name": "Physics Class 11: Solids & Fluid Dynamics (500 MCQs A-Z)",
+  "description": "Comprehensive 500 MCQs bank with step-by-step explanations, basic to advanced A-to-Z topic coverage, formula sheets, interactive fluid & elasticity simulators, and exam testing engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
